@@ -68,11 +68,11 @@ Since the interface file main.cpp do not need to be compiled until we need to ca
 #### PyCharm
 
 This program is originally complied in PyCharm. Just click open the python file main.py under the Python2Cpp folder. Go to "Run"(Alt+Shift+F10) and press Enter. The program will first install the binding code and then run the test code.
-### Spyder in Anaconda
+#### Spyder in Anaconda
 
 Open the main.py in Spyder. Run the file(F5).
 
-### Visual Studio
+#### Visual Studio
 
 I tested on Visual Studio 2019, but anything after Visual Studio 2015 should work as well.
 
